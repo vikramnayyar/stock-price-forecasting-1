@@ -1,0 +1,20 @@
+[I 220215 14:39:46 forecast_prices_util:23] 
+     * Size of dataframe: (4722, 5)
+    
+[I 220215 14:39:46 forecast_prices_util:24] * Column-wise NaNs can be identified as: 
+[I 220215 14:39:46 forecast_prices_util:25] Open      0
+    High      0
+    Low       0
+    Close     0
+    Volume    0
+    dtype: int64
+    
+[I 220215 14:39:46 forecast_prices_util:26] Total NaNs:0
+[I 220215 14:39:46 forecast_prices:74] Size of train set: (2968, 100)
+[I 220215 14:39:46 forecast_prices:75] Size of train label: (2968,)
+[I 220215 14:39:46 forecast_prices:76] Size of test set: (1552, 100)
+[I 220215 14:39:46 forecast_prices:77] Size of test label: (1552,)
+[I 220215 14:39:47 forecast_prices_util:61] The model of following config was created: 
+     None
+[I 220215 14:41:05 forecast_prices:106] Root Mean squared error of train set: 103.76455062193777
+[I 220215 14:41:05 forecast_prices:109] Root Mean squared error of test set: 381.84107782146623
