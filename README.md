@@ -37,7 +37,7 @@ An app forecasting the house prices, provides an intuitive means for identifying
 
 
 
-[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200>](https://matplotlib.org)     [<img target="_blank" src="https://www.askpython.com/wp-content/uploads/2020/11/ARIMA-model-with-python-1024x512.jpg.webp" width=200>](https://pypi.org/project/pmdarima/)     [<img target="_blank" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" width=200>](https://www.statsmodels.org/stable/index.html)      
+[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200>](https://matplotlib.org)     [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/)     [<img target="_blank" src="https://www.tensorflow.org/images/tf_logo_social.png" width=200>](https://www.tensorflow.org/)      
 
 
 
