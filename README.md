@@ -19,9 +19,9 @@ As real-estate demands large investment, the project is very significant.
 
 
 ## Goal
-This work was performed as a personal project and is based on the dataset available on Zillow. The motivation was to accurately forecast the American house prices. 
+This work was performed as a personal project and is based on the dataset available on Zillow. The motivation was to accurately forecast stock market prices. 
 
-An app forecasting the house prices, provides an intuitive means for identifying suitable property. This provides a trust in customers decision and validates current house price. The app will be utilized by the customers seeeking real-estate purchase. 
+An app forecasting the stock prices, provides an intuitive means for identifying suitable stock. This provides a trust in customers decision. The app will be utilized by the customers seeeking stock market investments. 
 
 
 ## System Environment
